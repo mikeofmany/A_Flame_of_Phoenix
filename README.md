@@ -7,7 +7,9 @@ the different splats and this is one I hope to recapture that.
 So in A Flame of Phoenix, one may play from the v20 splats with some restrictions.
 
 Vampire: The following clans are not allowed: Assamite, Malkavian, Nosferatu, Salubri, Samedi, Baali, Blood Brothers, Cappadocian, Gargoyle, True Brujah
+
 Mages: The following groups are not allowed: Euthanatos, Progenitors
+
 Werewolf: No Red Talons, No BSDs, No lost or forgotten tribes- Bunyip,etc; no Skindancers
 
 As for Changeling - not to start, the ideal call to action has to take place in a banal setting.
